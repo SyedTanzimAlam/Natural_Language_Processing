@@ -1,7 +1,3 @@
-git+https://github.com/ulikoehler/cv_algorithms.git
-git+https://github.com/ulikoehler/UliEngineering.git
-networkx
-scipy
+cffi >= 0.7
+cv2
 numpy
-toolz
-opencv-python
