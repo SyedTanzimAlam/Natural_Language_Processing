@@ -1,0 +1,13 @@
+{
+  "name": "hybridcloudsolutions",
+  "mastertemplate": "hybridcloudsolutions",
+  "version": "1.0.1",
+  "description": "hybridcloudsolutions",
+  "engines": {
+      "node": ">=10.0.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
